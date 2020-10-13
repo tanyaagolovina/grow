@@ -12,7 +12,7 @@
     <artifactId>node</artifactId>
 
     <properties>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <pitest.version>1.4.7</pitest.version>
     </properties>
 
